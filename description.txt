@@ -1,4 +1,4 @@
-version: 1.0.0
+version: 1.0.2
 struture:
       one module in dms consist of 3 part
       mdlDemoCom
